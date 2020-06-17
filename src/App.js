@@ -10,4 +10,4 @@ function App() {
   )
 }
 
-export default Page;
+export default App;
